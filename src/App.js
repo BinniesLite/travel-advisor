@@ -62,8 +62,6 @@ function App() {
 
   },[bounds, type]);
   
-  console.log(weatherData);
-  
 
   return (
     <>
